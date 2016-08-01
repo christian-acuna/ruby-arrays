@@ -7,6 +7,7 @@ class Array
   end
 end
 
+# require './unqiue' IN IRB
 #
 # my_arry = [1, 1, 2, 2, 3]
 #
